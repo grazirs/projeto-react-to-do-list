@@ -1,0 +1,53 @@
+.subtitle {
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    margin: 2rem 10rem;
+}
+
+.section-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    height: 150px;
+    width: 300px;
+    background-color: #121536;
+    ;
+    border-radius: 12px;
+    margin: 2rem;
+}
+
+.card-text {
+    color: honeydew;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 2rem;
+
+}
+.to-do{
+    display: flex;
+}
+
+.to-do-title{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 1.5rem;
+
+
+
+}
+
+.to-do-text{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin: 1rem 6rem 1.5rem;
+
+}
+
+.to-do-img{
+    width: 30%;
+}
